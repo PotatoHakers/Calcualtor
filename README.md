@@ -1,6 +1,9 @@
 # Calcualtor
 
-https://imgur.com/a/niCJs9J
+![calculator](https://user-images.githubusercontent.com/97401395/197634117-618c3195-01b8-4dfd-8d15-53253acc5fea.png)
+![calcFull](https://user-images.githubusercontent.com/97401395/197634213-9d32b354-af42-408c-9815-2e658b3390a1.png)
+
+
 
 Приложение Calculator — это современное приложение на Windows Forms, написанное на языке C#. Приложение предоставляет стандартные операции калькулятора.
 
