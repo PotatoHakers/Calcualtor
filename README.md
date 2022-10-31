@@ -21,6 +21,10 @@
 
 ![197620083-3abc64b7-446b-4bfd-b4bc-7eac8c87f650](https://user-images.githubusercontent.com/97401395/199044717-16a9c855-3685-4781-9aff-586410772d71.png)
 
+  Скачать калькулятор можно по ссылке https://github.com/PotatoHakers/Calcualtor
+  
+  ![image](https://user-images.githubusercontent.com/97401395/199049430-c0f9bc9d-3856-414c-aac4-9fdd064ae6b6.png)
+
 В нашем калькуляторе есть класс под названием CalculatorMethod. В это методе написаны все функциональные методы, которые используются в кнопках самого калькулятора в форме под названием FormCalculator. 
 ![image](https://user-images.githubusercontent.com/97401395/199045668-2803b13b-374f-4874-ab28-4ba76033c159.png)
 
@@ -39,10 +43,5 @@ XUnit, Microsoft.NET.Test.SDK.
 4) Класс для тестирования функции отнимания в калькуляторе
 
 Все 4 теста выполняются успешно
+
 ![image](https://user-images.githubusercontent.com/97401395/199046899-d70ad685-e57c-4ecc-aafa-e322b91614af.png)
-
-
-
-
-
-
