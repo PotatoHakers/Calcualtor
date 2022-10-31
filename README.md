@@ -24,6 +24,6 @@
 Установите дополнительный компонент "Universal Windows Platform tools".
 Установите последнюю версию пакета SDK для Windows 11.
 
-https://user-images.githubusercontent.com/81263807/197620083-3abc64b7-446b-4bfd-b4bc-7eac8c87f650.png
+![197620083-3abc64b7-446b-4bfd-b4bc-7eac8c87f650](https://user-images.githubusercontent.com/97401395/199044717-16a9c855-3685-4781-9aff-586410772d71.png)
 
 Откройте Calculator.sln в Visual Studio для создания и запуска приложения Calculator.
